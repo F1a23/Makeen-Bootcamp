@@ -1,0 +1,1 @@
+SELECT * FROM pythondb.consolidated_transactions;

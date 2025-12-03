@@ -1,0 +1,17 @@
+python : 3
+is : 2
+fun : 1
+and : 2
+easy : 1
+to : 1
+learn. : 1
+used : 1
+for : 1
+data : 1
+science : 1
+web : 1
+development. : 1
+learning : 1
+makes : 1
+programming : 1
+fun. : 1

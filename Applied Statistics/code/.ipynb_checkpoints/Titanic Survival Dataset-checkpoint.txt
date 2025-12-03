@@ -1,0 +1,57 @@
+<<<<<<< HEAD
+Titanic Survival Dataset
+
+Dataset: titanic.csv (available on Kaggle or seaborn’s built-in dataset)
+Link for the dataset: https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
+Problem Statement:
+
+You are analyzing survival data from the Titanic disaster.
+Using the dataset, calculate the following probabilities:
+
+P(Survived) – the probability that a passenger survived.
+P(Survived | Sex = 'female') – the probability of survival given that the passenger is female.
+P(Survived | Pclass = 1) – the probability that a first-class passenger survived.
+P(Sex = 'female' | Survived = 1) – the probability that a passenger was female given that they survived.
+
+IMPORTANT: Compare these probabilities and discuss what they reveal about gender and class bias in survival rates.
+
+Skills Practiced:
+pandas filtering and counting
+Conditional probability computation using groupby
+Data insight interpretation
+
+
+نقدر نشرح بشكل زين 
+احتمالات
+
+workbench link : https://dev.mysql.com/downloads/workbench/
+=======
+Titanic Survival Dataset
+
+Dataset: titanic.csv (available on Kaggle or seaborn’s built-in dataset)
+Link for the dataset: https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
+Problem Statement:
+
+You are analyzing survival data from the Titanic disaster.
+Using the dataset, calculate the following probabilities:
+
+P(Survived) – the probability that a passenger survived.
+P(Survived | Sex = 'female') – the probability of survival given that the passenger is female.
+P(Survived | Pclass = 1) – the probability that a first-class passenger survived.
+P(Sex = 'female' | Survived = 1) – the probability that a passenger was female given that they survived.
+
+IMPORTANT: Compare these probabilities and discuss what they reveal about gender and class bias in survival rates.
+
+Skills Practiced:
+pandas filtering and counting
+Conditional probability computation using groupby
+Data insight interpretation
+
+
+نقدر نشرح بشكل زين 
+احتمالات
+
+workbench link : https://dev.mysql.com/downloads/workbench/
+>>>>>>> a88c36b (ok)

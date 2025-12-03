@@ -1,0 +1,3 @@
+the count is: 10 
+ and  the total is 439.00 
+ and the average is: 43.90

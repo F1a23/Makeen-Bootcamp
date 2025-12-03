@@ -1,0 +1,43 @@
+🧩 Exercise 1: University Enrollment System
+Requirement Specification
+
+A university wants to manage data about students, courses, and enrollments.
+Each student has a unique student ID, full name, email, phone number, and date of birth.
+Each course has a course code, title, credit hours, and department.
+A student can enroll in many courses, and each course can have many students.
+When a student enrolls in a course, the university records the semester, academic year, and the grade obtained.
+Professors teach courses, and each professor has a unique ID, name, office number, and specialization.
+Each course is taught by one professor, but a professor can teach multiple courses.
+
+
+🏥 Exercise 2: Hospital Management System
+Requirement Specification
+
+A hospital keeps track of patients, doctors, and appointments.
+Each doctor has a unique doctor ID, name, specialty, phone number, and years of experience.
+Each patient has a patient ID, name, gender, date of birth, address, and emergency contact.
+Appointments connect patients and doctors. Each appointment has an appointment ID, date, time, and reason for visit.
+A patient can have multiple appointments with different doctors, and each doctor can see many patients.
+The hospital also records prescriptions linked to appointments, containing medicine name, dosage, and duration.
+
+
+🏨 Exercise 3: Hotel Booking System
+Requirement Specification
+
+A hotel manages information about customers, rooms, and bookings.
+Each room has a room number, type (single, double, suite), status (available or occupied), and price per n ight.
+Each customer has a unique customer ID, name, phone number, and email.
+A booking links a customer to a room and includes a booking ID, check-in date, check-out date, and payment method.
+A customer can make many bookings, but each booking refers to only one room.
+Rooms can be booked many times over the year by different customers.
+
+
+🛍️ Exercise 4: Online Shopping Platform
+Requirement Specification
+
+An online store manages products, customers, and orders.
+Each product has a product ID, name, description, price, and stock quantity.
+Each customer has a customer ID, name, email, phone, and address.
+When a customer places an order, an order ID, date, and total amount are recorded.
+Each order can contain multiple products, and each product can appear in multiple orders.
+An order also records payment method and delivery status.
