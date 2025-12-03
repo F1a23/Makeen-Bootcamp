@@ -4,3 +4,6 @@ This repository contains the code files, notebooks, and practice exercises I wor
 
 It includes various coding tasks, data analysis scripts, machine learning experiments, and weekly assignments—all representing my practical learning journey throughout the program.
 
+### 👤 Created by: **Fatima Al-Amri**
+### 🎓 Major: **Software Engineering**
+### 💼 Trainee at: **Code Academy – Makeen Bootcamp**
